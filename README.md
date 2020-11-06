@@ -1,2 +1,2 @@
-# MML-ANN-Simpil-
+# ML-ANN-Simpil-
 A simple ANN application code
